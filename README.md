@@ -1,10 +1,8 @@
-﻿# Receipt 2.0
+# Receipt 2.0
 
-Project workspace.
+<img src="./assets/header.svg" width="100%" alt="Receipt 2.0" />
 
-## Stack
-
-HTML Â· CSS Â· JavaScript
+Receipt generation tool.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ HTML Â· CSS Â· JavaScript
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
